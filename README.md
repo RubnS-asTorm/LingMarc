@@ -1,2 +1,2 @@
 # LingMarc
-Linguaxe de Marcas
+Linguaxe de Marcas - Rubén Rey Feal
